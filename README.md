@@ -3,7 +3,7 @@
 ## Use
 
 1. Download the exe file from https://github.com/TobiasCoding/Excel_to_Office_Bibliography/raw/refs/heads/main/Excel_to_Office_Bibliography.exe
-2. Create and edit a Xlsx file like: https://github.com/TobiasCoding/Excel_to_Office_Bibliography/raw/refs/heads/main/bibliography_example.xlsx
+2. Create and edit a XLSX file like: https://github.com/TobiasCoding/Excel_to_Office_Bibliography/raw/refs/heads/main/bibliography_example.xlsx
 3. Open Powershell and execute the executable file with this sample code:
 ```powershell
 .\Excel_to_Office_Bibliography.exe bibliography_example.xlsx bibliography.xml
