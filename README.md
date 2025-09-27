@@ -1,4 +1,5 @@
 # Excel to Office Bibliography
+This script allow use a XLS/XLSX file to save structurated data and transform to XML file that could be imported like bibliography in Microsoft Word.
 
 ## Use
 
