@@ -20,3 +20,6 @@ If you edit the python source code, you can compile it with this PyInstaller com
 ```powershell
 python -m PyInstaller -F -w -n "Excel_to_Office_Bibliography" Excel_to_Office_Bibliography.py Bibliography.xml
 ```
+
+---
+Dev. by tobiasrimoli@protonmail.com
